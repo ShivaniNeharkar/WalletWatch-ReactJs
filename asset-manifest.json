@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WalletWatch/static/css/main.9904d3de.css",
+    "main.js": "/WalletWatch/static/js/main.a74c5833.js",
+    "index.html": "/WalletWatch/index.html",
+    "main.9904d3de.css.map": "/WalletWatch/static/css/main.9904d3de.css.map",
+    "main.a74c5833.js.map": "/WalletWatch/static/js/main.a74c5833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9904d3de.css",
+    "static/js/main.a74c5833.js"
+  ]
+}
